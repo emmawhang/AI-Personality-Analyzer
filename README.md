@@ -4,9 +4,10 @@ Short description
 -----------------
 AI Personality & Vibe Analyzer predicts personality (MBTI + trait scores), emotional tone, and the visual/ aesthetic "vibe" from short text (tweets, bios, journal excerpts). Outputs include: personality label + trait radar, emotion probabilities + mood cloud, and a vibe badge (e.g., "dark academia").
 
-Quick demo (screenshot / gif)
+Quick demo 
 ----------------------------
-(Place a screenshot or animated gif here showing the app UI — personality radar, mood cloud, and vibe badge.)
+
+
 
 Table of contents
 -----------------
@@ -69,8 +70,6 @@ pip install -r requirements.txt
 2. Set up environment variables (optional; only needed for OpenAI embeddings or hosted model keys):
 ```bash
 # .env or export
-export OPENAI_API_KEY="sk-..."
-```
 
 Quickstart (local demo)
 ----------------------
@@ -132,7 +131,3 @@ How to contribute
 License
 -------
 MIT (or choose your preferred license). Include attribution for datasets and model licenses.
-
-Contact
--------
-Your Name — your.email@example.com — LinkedIn / GitHub
