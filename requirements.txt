@@ -1,0 +1,12 @@
+transformers>=4.0.0
+sentence-transformers>=2.2.0
+scikit-learn
+pandas
+numpy
+gradio
+plotly
+matplotlib
+wordcloud
+python-dotenv
+torch
+sentencepiece
